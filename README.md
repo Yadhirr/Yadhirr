@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 🙋‍♂️
 
-<!--
-**Yadhirr/Yadhirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yadhir, a proactive and punctual person with strong communication skills and a lifelong learning mindset. 
 
-Here are some ideas to get you started:
+I enjoy solving real-world problems and making smart decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is python, javascript, react. My favourite tools are google notes, and chatbots.
+
+Fun Facts:
+- Love listening to music
+- I love coffee or tea
+- Learning is about various topics interest me
+- Hobbies: gym, building things, AI news
