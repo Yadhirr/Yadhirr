@@ -9,5 +9,5 @@ My main tech stack is python, javascript, react. My favourite tools are google n
 Fun Facts:
 - Love listening to music
 - I love coffee or tea
-- Learning is about various topics interest me
+- Learning about various topics interest me
 - Hobbies: gym, building things, AI news
