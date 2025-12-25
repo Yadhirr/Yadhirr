@@ -1,6 +1,6 @@
 ## Hi there 🙋‍♂️
 
-I'm Yadhir, a proactive and punctual person with strong communication skills and a lifelong learning mindset. 
+I'm Yadhir, a proactive, punctual person with strong communication skills and a lifelong learning mindset. 
 
 I enjoy solving real-world problems and making smart decisions.
 
