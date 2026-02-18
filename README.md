@@ -4,7 +4,7 @@ I'm Yadhir, a proactive, punctual person with strong communication skills and a 
 
 I enjoy solving real-world problems and making smart decisions.
 
-My main tech stack is python, javascript, react. My favourite tools are google notes, and chatbots.
+My main tech stack is
 
 Fun Facts:
 - Love listening to music
@@ -12,7 +12,7 @@ Fun Facts:
 - Learning about various topics interest me
 - Hobbies: gym, building things, AI news
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My main tech stack is python, javascript, react. My favourite tools are google notes, and chatbots.</h2>
 
 ###
 
