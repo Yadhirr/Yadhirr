@@ -4,8 +4,6 @@ I'm Yadhir, a proactive, punctual person with strong communication skills and a 
 
 I enjoy solving real-world problems and making smart decisions.
 
-My main tech stack is
-
 Fun Facts:
 - Love listening to music
 - I love coffee or tea
