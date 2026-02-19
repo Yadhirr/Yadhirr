@@ -8,7 +8,7 @@ Fun Facts:
 - Love listening to music
 - I love coffee or tea
 - Learning about various topics interest me
-- Hobbies: gym, building things, AI news
+- Hobbies: gym, building things, AI/Informative news
 
 <h2 align="left">My main tech stack is python, javascript, react. My favourite tools are google notes, chatbots,and visual studio code</h2>
 
