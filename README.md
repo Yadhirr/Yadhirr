@@ -10,7 +10,7 @@ Fun Facts:
 - Learning about various topics interest me
 - Hobbies: gym, building things, AI/Informative news
 
-<h2 align="left">My main tech stack is python, javascript, react. My favourite tools are , chatbots,and visual studio code</h2>
+<h2 align="left">My main tech stack is python, javascript, react. My favourite tools are chatbots,and visual studio code</h2>
 
 ###
 
