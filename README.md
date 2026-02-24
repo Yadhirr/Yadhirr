@@ -4,7 +4,8 @@ I'm Yadhir, a proactive, punctual person with strong communication skills and a 
 
 I enjoy solving real-world problems and making smart decisions.
 
-Fun Facts:
+
+## 🚀 Fun Facts
 - Love listening to music
 - I love coffee or tea
 - Learning about various topics interest me
@@ -31,6 +32,13 @@ Fun Facts:
 </div>
 
 ###
+
+## 🌐 Connect with me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadhir.ramrethan29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/yadhir-ramrethan-647961266/))
+
+---
 
 
 
